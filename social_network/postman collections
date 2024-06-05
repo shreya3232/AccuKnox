@@ -1,0 +1,5 @@
+http://127.0.0.1:8000/api/users/search/?search=am      GET
+http://127.0.0.1:8000/api/users/search/?                GET
+http://127.0.0.1:8000/api/users/signup/                 POST
+http://127.0.0.1:8000/api/users/friend-requests/      GET
+http://127.0.0.1:8000/api/users/login/                  POST
